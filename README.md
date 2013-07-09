@@ -16,10 +16,10 @@ We worked from 9am to midnight at the Dutch Game Garden in Utrecht, Netherlands.
 
 The team was:
 
-Nick Witsel: Designer
-Marijn van Putten: Artist
-Aida de Ridder: Artist
-Shawn McCool: Programmer
+* Nick Witsel: Designer
+* Marijn van Putten: Artist
+* Aida de Ridder: Artist
+* Shawn McCool: Programmer
 
 I really enjoyed working with them all.
 
