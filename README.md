@@ -3,6 +3,8 @@ Conspicuous-Molyjam2013
 
 My team's game completed over 2 days during Molyjam 2013.
 
+It can be played here: http://www.molyjam.com/games/73
+
 It's about as down and dirty as you can possibly get. Which means pretty dirty. But, we're proud of what we created in such a short amount of time.
 
 The 2 days in which we worked included:
