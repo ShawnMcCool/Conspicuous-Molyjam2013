@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="CONspicuous" package="com.molyjamnl.conspicuous" version="1.0.0" company="MolyjamNL 2013" />
+
+ 	<app file="Main" main="Main" path="bin" />
+
+	<window fps="30" background="0x333333" />
+	<window width="1024" height="768" resizable="false" unless="mobile" />
+	<window fullscreen="false"/>
+	<window orientation="landscape" vsync="true" antialiasing="0" if="cpp" />
+
+	<source path="src" />
+
+	<haxelib name="openfl" />
+	<haxelib name="HaxePunk" />
+    <haxelib name="thx" />
+
+	<assets path="assets/graphics" rename="gfx" include="*.png|*.jpg" />
+	<assets path="assets/audio" rename="sfx" include="*.mp3" />
+	<assets path="assets/font" rename="font" include="*.ttf" />
+
+	<icon path="assets/HaxePunk.svg" />
+</project>
