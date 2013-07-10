@@ -13,7 +13,6 @@
 
 	<haxelib name="openfl" />
 	<haxelib name="HaxePunk" />
-    <haxelib name="thx" />
 
 	<assets path="assets/graphics" rename="gfx" include="*.png|*.jpg" />
 	<assets path="assets/audio" rename="sfx" include="*.mp3" />
