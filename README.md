@@ -31,3 +31,4 @@ The game was built using Photoshop, Audacity, Google Docs and Intellij Idea. It 
 
 [Worldshatter Playthrough](http://www.youtube.com/watch?v=VN3AhdLPNIQ&hd=1)
 [IndieGames.com](http://indiegames.com/2013/07/browser_pick_molyjam_game_cons.html)
+[Gamer.NL](http://www.gamer.nl/achtergrond/430504/molyjam-2013-uitspraken-molyneux-zorgen-voor-games)
