@@ -25,7 +25,7 @@ The team was:
 
 I really enjoyed working with them all.
 
-The game was built using Photoshop, Audacity, Google Docs and Intellij Idea. It was programmed in Haxe using the HaxePunk game development framework. Molyjam was the first time that I had used either Haxe or HaxePunk to make a game and we were under very tight time constraints. So, please keep this in mind before viewing the code. ;)
+The game was built using Photoshop, Audacity, Google Docs and Intellij Idea. It was programmed in Haxe using the HaxePunk game development framework. Molyjam was the first time that I used Haxe.
 
 # Media
 
